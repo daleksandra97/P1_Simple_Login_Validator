@@ -31,3 +31,4 @@ The goal of this project was to practice:
 ## How to Run
 
 You can run the script using any Python interpreter (version 3.x).
+Beginner Python login system project simulating a basic login process.
